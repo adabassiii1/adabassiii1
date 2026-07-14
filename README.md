@@ -6,7 +6,6 @@
 - 💼 4 years of IT project management in regulated industries (MedTech, Cybersecurity) – now translating that into technical execution
 - 🔭 Currently deepening my skills in software engineering – focused on **Python** & backend development
 - 📍 Germany
-- 
 
 **Tech stack (growing):**
 - Python

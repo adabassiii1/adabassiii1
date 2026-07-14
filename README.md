@@ -8,7 +8,7 @@
 - 📍 Germany
 - 
 
-**Tech stack:**
+**Tech stack (growing):**
 - Python
 - SQL/PostgreSQL
 - Docker
